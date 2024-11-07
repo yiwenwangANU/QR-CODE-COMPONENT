@@ -3,7 +3,7 @@ function App() {
     <>
       <div className="bg-slate-300 h-screen flex items-center justify-center">
         <div className="flex flex-col bg-white rounded-2xl w-72 p-4 shadow-lg gap-4">
-          <img className="rounded-xl" src="image-qr-code.png" />
+          <img className="rounded-xl" src="image-qr-code.png" alt="qr-img" />
           <p className="text-slate-900 font-bold text-xl text-center leading-6">
             Improve your front-end skills by building projects
           </p>
